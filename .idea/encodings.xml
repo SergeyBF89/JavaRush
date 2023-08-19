@@ -2,11 +2,13 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/.gitignore" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/level_1_lecture_1_by_8/lecture_1/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/level_1_lecture_1_by_8/lecture_2/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/level_2_lecture_3_by_8/lecture_5/Strings.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/level_2_lecture_3_by_8/lecture_6/ExampleStrings.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/level_2_lecture_3_by_8/lecture_8/ScannerJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
